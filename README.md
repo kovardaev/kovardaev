@@ -16,14 +16,14 @@ I build web products from the ground up, turn complex requirements into maintain
 
 ## Selected highlights
 
-- Took full ownership of the frontend direction for a new product, helping bring it from zero to MVP and its first customers in under a year.
-- Designed browser agents and heuristic mechanisms for detecting automated and suspicious user behavior.
-- Contributed to the migration of a customer portal to a microfrontend architecture.
-- Built a browser-side hybrid encryption module using the Web Crypto API.
-- Set up GitLab CI pipelines with multi-stage Docker builds, Harbor, Nexus, Vault, Helm, Kubernetes, Trivy, Grype, and Hadolint.
-- Delivered ticketing, career, corporate, administration, and CMS products in teams ranging from small startups to large cross-functional groups.
-- Developed internal banking tools under strict constraints, including environments where third-party npm packages were unavailable.
-- Previously managed large-scale technology projects, including SSO for 15,000 users and video surveillance infrastructure spanning 3,000 cameras.
+- Took full ownership of the frontend direction for a new product, helping bring it from zero to MVP and its first customers in under a year
+- Designed browser agents and heuristic mechanisms for detecting automated and suspicious user behavior
+- Contributed to the migration of a customer portal to a microfrontend architecture
+- Built a browser-side hybrid encryption module using the Web Crypto API
+- Set up GitLab CI pipelines with multi-stage Docker builds, Harbor, Nexus, Vault, Helm, Kubernetes, Trivy, Grype, and Hadolint
+- Delivered ticketing, career, corporate, administration, and CMS products in teams ranging from small startups to large cross-functional groups
+- Developed internal banking tools under strict constraints, including environments where third-party npm packages were unavailable
+- Previously managed large-scale technology projects, including SSO for 15,000 users and video surveillance infrastructure spanning 3,000 cameras
 
 ## Tech stack
 
