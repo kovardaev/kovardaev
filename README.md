@@ -46,4 +46,4 @@ I build web products from the ground up, turn complex requirements into maintain
 
 [![Email](https://img.shields.io/badge/Email-s.kovardaev%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:s.kovardaev@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%40kvrdv-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kvrdv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Semyon_Kovardaev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kovardaev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sam_Kovardaev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kovardaev/)
