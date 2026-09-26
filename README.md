@@ -4,7 +4,7 @@
 
 [![Codewars](https://www.codewars.com/users/kovardaev/badges/large)](https://www.codewars.com/users/kovardaev)
 
-[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={kovardaev})](https://leetcode.com/{kovardaev}/)
+[![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=kovardaev)](https://leetcode.com/kovardaev/)
 
 **Senior Frontend Engineer** specializing in **TypeScript, React, and Node.js**.
 
