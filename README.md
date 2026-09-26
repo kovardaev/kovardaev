@@ -4,8 +4,6 @@
 
 [![Codewars](https://www.codewars.com/users/kovardaev/badges/large)](https://www.codewars.com/users/kovardaev)
 
-[![Codewars Stats](https://github.r2v.ch/codewars?user=kovardaev&theme=light&top_languages=true&stroke=%23b362ff)](https://www.codewars.com/users/kovardaev)
-
 **Senior Frontend Engineer** specializing in **TypeScript, React, and Node.js**.
 
 I build web products from the ground up, turn complex requirements into maintainable frontend architecture, and take features all the way from technical design to production. My background combines hands-on software engineering with project leadership, giving me a strong product mindset and a clear understanding of delivery, teamwork, and business goals.
