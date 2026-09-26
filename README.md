@@ -1,3 +1,9 @@
+[![Email](https://img.shields.io/badge/Email-s.kovardaev%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:s.kovardaev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40kvrdv-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kvrdv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kovardaev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kovardaev/)
+
+[![Codewars Stats](https://github.r2v.ch/codewars?user=kovardaev&theme=light&top_languages=true&stroke=%23b362ff)](https://www.codewars.com/users/kovardaev)
+
 **Senior Frontend Engineer** specializing in **TypeScript, React, and Node.js**.
 
 I build web products from the ground up, turn complex requirements into maintainable frontend architecture, and take features all the way from technical design to production. My background combines hands-on software engineering with project leadership, giving me a strong product mindset and a clear understanding of delivery, teamwork, and business goals.
@@ -41,9 +47,3 @@ I build web products from the ground up, turn complex requirements into maintain
 - Browser security, fingerprinting, and behavioral analytics
 - Full-stack development with React and Node.js
 - Reliable delivery pipelines and frontend security
-
-## Let's connect
-
-[![Email](https://img.shields.io/badge/Email-s.kovardaev%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:s.kovardaev@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%40kvrdv-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kvrdv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kovardaev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kovardaev/)
