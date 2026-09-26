@@ -2,6 +2,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%40kvrdv-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kvrdv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kovardaev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kovardaev/)
 
+[![Codewars](https://www.codewars.com/users/kovardaev/badges/large)](https://www.codewars.com/users/kovardaev)
+
 [![Codewars Stats](https://github.r2v.ch/codewars?user=kovardaev&theme=light&top_languages=true&stroke=%23b362ff)](https://www.codewars.com/users/kovardaev)
 
 **Senior Frontend Engineer** specializing in **TypeScript, React, and Node.js**.
